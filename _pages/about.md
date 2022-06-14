@@ -10,10 +10,9 @@ redirect_from:
 
 About me
 -------------
-I am a PhD student in optimization at Technical University of Munich. 
-My interests surround optimization in general, and more specifically 
-stochastic optimization algorithms, machine learning and related topics 
-in computation and statistics. Feel free to approach me in case you like any of these topics.
+I work at the intersection of water sciences and machine learning. I am interested in application of data-driven
+approaches to solve problems related to water resources with special focus on surface water quality, catchment dynamics
+and water treatment.
 
 News
 ----------

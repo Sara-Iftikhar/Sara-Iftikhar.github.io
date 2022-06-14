@@ -11,7 +11,7 @@ redirect_from:
 
 
 Education
---------------
+---------
 
 
 
@@ -26,3 +26,11 @@ Thesis titles:
 * Master's thesis:   *Estimation of hydraulic aquifer parameters by integral transform methods applied to aquifer and river stream head responses (Leine River)*
 * Bachelor's thesis: *Hydrogeological investigations of Munara area(Pakistan) and surroundings*
 
+Experience
+----------
+
+2017-2018
+
+2016 - 2017
+
+2013

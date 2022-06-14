@@ -10,6 +10,6 @@ citation: 'Jeong, K., Abbas, A., Shin, J., Son, M., Kim, Y. M., & Cho, K. H. (20
     Prediction of biogas production in anaerobic co-digestion of organic wastes using deep learning models. 
     Water Research, 205, 117697.'
 ---
-This paper is prediction of antibiotic resistance genes at a recreational beach in South Korea using deep learning.
+This paper is about prediction of production of biogas using modified dual-stage attention model.
 
 [Download paper here](https://doi.org/10.1016/j.watres.2021.117697)

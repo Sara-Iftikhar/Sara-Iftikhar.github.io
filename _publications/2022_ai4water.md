@@ -9,4 +9,7 @@ paperurl: 'https://doi.org/10.5194/gmd-2021-139'
 citation: 'Abbas, A., Boithias, L., Pachepsky, Y., Kim, K., Chun, J. A., & Cho, K. H. (2022). 
     AI4Water v1. 0: an open-source python package for modeling hydrological time series using data-driven methods. 
     Geoscientific Model Development, 15(7), 3021-3039.'
+---
+This paper presents a python-based framework for development of machine learning models
+
 [Download paper here](https://gmd.copernicus.org/articles/15/3021/2022/gmd-15-3021-2022.pdf)

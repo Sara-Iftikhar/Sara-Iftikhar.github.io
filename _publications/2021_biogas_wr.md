@@ -1,5 +1,5 @@
 ---
-title: "Prediction of antibiotic-resistance genes occurrence at a recreational beach with deep learning models"
+title: "Prediction of biogas production in anaerobic co-digestion of organic wastes using deep learning models"
 collection: publications
 permalink: /publication/2021_biogas_wr
 excerpt: 'This paper is prediction of antibiotic resistance genes at a recreational beach in South Korea using deep learning..'

@@ -11,9 +11,7 @@ redirect_from:
 
 
 Education
----------
-
-
+=========
 
 * 2018-2022:   PhD student at Urban and Environmental Engineering, Ulsan National Institute of Science and Technology, South Korea
 * 2013-2017:    M. S. Hydrogeology and Environmental Science, Goettingen University, Germany
@@ -27,10 +25,33 @@ Thesis titles:
 * Bachelor's thesis: *Hydrogeological investigations of Munara area(Pakistan) and surroundings*
 
 Experience
-----------
+==========
+* Researcher at [WEIL lab](https://firstkh.wixsite.com/ueeem2) from 2017 - 2018
+  * Watershed modeling with HSPF for Ulsan city Korea
+  * Coupling of HSPF model with analytical groundwater models
 
-2017-2018
+* Internee at [G.E.O.S GmbH Freiberg](https://www.geosfreiberg.de/de/) from 2016 - 2017
+  * Development of thermo-mechanical models of magma emplacement, subduction and convection in MATLAB
+  * Hydrological mapping of Saxony with Surpac and ArcGIS
+  * Modeling of reactive groundwater transport using PhreeqC and COMSOL
+  * Modeling Hydraulic fracturing using KGD, PKN and P3D models with MATLAB
+  * numerical modeling of groundwater flow, temperature distribution in crust and convection cell studies using MATLAB
+  * Development of coupled heat transport model in geothermal wells and neighboring rock
+* Jr. GIS professional at [The Urban Unit](https://urbanunit.gov.pk/) from Jun. 2013 - Sep. 2013
+  * Preparation of Landuse maps
 
-2016 - 2017
+Skills
+======
+* Machine Learning
+  * AI4Water
+  * scikit-learn, keras, Tensorflow, PyTorch
+* Modeling
+  * Surface Water (HSPF, SWAT)
+  * Groundwater (MODFlow)
 
-2013
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

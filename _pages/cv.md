@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[Download](Resume.pdf)
 
 Education
 =========

@@ -88,11 +88,11 @@ author:
   avatar           : "profile_pic.jpg"
   bio              : "PhD in Artificial intelligence in surface water resources"
   location         : "Ulsan"
-  employer         :
+  employer         : "UNIST"
   pubmed           :
-  googlescholar    : #"https://scholar.google.com/citations?user=DugZ6eEAAAAJ&hl=de"
+  googlescholar    : "https://scholar.google.com/citations?user=DugZ6eEAAAAJ&hl=en&oi=sra"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Ather-Abbas"
+  researchgate     :  "https://www.researchgate.net/profile/Ather-Abbas"
   uri              :
   bitbucket        :
   codepen          :

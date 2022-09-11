@@ -27,6 +27,11 @@ Thesis titles:
 
 Experience
 ==========
+
+* Postdoc Researcher at [Weil lab](https://weilunist.creatorlink.net/) from Sept 2022 -
+  * data driven modeling of water quality
+  * data driven modeling of wastewater treatment
+
 * Researcher at [WEIL lab](https://firstkh.wixsite.com/ueeem2) from 2017 - 2018
   * Watershed modeling with HSPF for Ulsan city Korea
   * Coupling of HSPF model with analytical groundwater models

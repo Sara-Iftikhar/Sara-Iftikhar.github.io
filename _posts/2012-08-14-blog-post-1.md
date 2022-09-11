@@ -1,0 +1,19 @@
+---
+title: 'What is scikit-learn?'
+date: 2012-09-11
+permalink: /posts/2012/08/blog-post-1/
+tags:
+  - scikit-learn
+  - ML tooling
+  - python libraries
+---
+
+Scikit-learn has been the lingua-franca of machine learning community for over a decade now. Developed
+in early 2000's, the paper about scikit-learn came in 2011. The paper is well written, and describes the
+basic principles of the library. The very fact that the paper of a machine learning library is relevant
+today speaks volumes about the strong principles and basis of scikit-learning library. No doughty, the
+library has influenced many onward machine learning libraries and almost all the 'mainstream' machine
+learning libraries have many concepts borrowed from it. This post has been influenced by the original 
+paper and my experience of using scikit-learn. The purpose is not to regurgitate the paper, but to
+explain it with code examples.
+

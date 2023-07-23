@@ -16,5 +16,4 @@ and water treatment.
 
 News
 ----------
-* Successfully defended my Ph.D. thesis titled "Artificial intelligence 
-  for modeling of surface water resources: Application from streamflow to water quality".
+* My first first author paper published in JEMA titled "".

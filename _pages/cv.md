@@ -35,10 +35,18 @@ Experience
 
 Skills
 ======
-* Languages
-  * Python 
+* Python
+  * Object-oriented programming 
+  * Visualization (matplotlib, seaborn, plotly)
+  * Array manipulation (numpy, pandas)
+  * Data handling (.xlxs, .json, .csv, .h5, .nc)
 * Machine Learning
-  * scikit-learn, keras, Tensorflow, PyTorch
+  * TensorFlow (building and training neural networks for Tabular and Time series data)
+  * Scikit-learn (using differnt Ensemble methods, Decision trees and Neural network models for classification and regression problems)
+  * LightGBM, XGBoost, CatBoost
+  * Experiment Tracking (weights&biases)
+* Version Control
+  * git
 
 
 Publications

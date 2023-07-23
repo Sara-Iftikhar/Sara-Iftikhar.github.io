@@ -12,39 +12,28 @@ redirect_from:
 
 
 
-AI4Water
---------
+AutoTab (Owner)
+---------------
 
-A python-based fromework for machine learning based modeling in python. 
-Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/AtrCheema/AI4Water)
-Documentation:  [![Documentation Status](https://readthedocs.org/projects/ai4water/badge/?version=latest)](https://ai4water.readthedocs.io/en/latest/?badge=latest)
-
-
-SeqMetrics
------------
-
-A collection of over 100 regression and several classification metrics in numpy 
-Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/AtrCheema/SeqMetrics)
-Documentation: [![Documentation Status](https://readthedocs.org/projects/seqmetrics/badge/?version=latest)](https://seqmetrics.readthedocs.io/en/latest/?badge=latest)
+Framework for machine learning pipeline optimization 
+Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/Sara-Iftikhar/AutoTab)
+Documentation:  [![Documentation Status](https://readthedocs.org/projects/autotab/badge/?version=latest)](https://autotab.readthedocs.io/en/latest/?badge=latest)
 
 
-easy_mpl
---------
+easy_mpl (Owner)
+----------------
 
 A one stop shop for matplotlib based plotting. 
 Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/Sara-Iftikhar/easy_mpl)
 Documentation: [![Documentation Status](https://readthedocs.org/projects/easy-mpl/badge/?version=latest)](https://easy-mpl.readthedocs.io/en/latest/?badge=latest)
 
 
-AutoTab
--------
+AI4Water (Contributor)
+----------------------
 
-Pipeline optimization for tabular data. This library can be used for automatically
-optimizing preprocessing, model selection and hyperparameter optimization for tabular data.
-
-Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/Sara-Iftikhar/AutoTab)
-Documentation: [![Documentation Status](https://readthedocs.org/projects/autotab/badge/?version=latest)](https://autotab.readthedocs.io/en/latest/?badge=latest)
-
+A python-based fromework for machine learning based modeling in python. 
+Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/AtrCheema/AI4Water)
+Documentation:  [![Documentation Status](https://readthedocs.org/projects/ai4water/badge/?version=latest)](https://ai4water.readthedocs.io/en/latest/?badge=latest)
 
 *********************************
 

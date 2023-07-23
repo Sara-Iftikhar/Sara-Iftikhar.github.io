@@ -86,13 +86,13 @@ analytics:
 author:
   name             : "Sara Iftikhar"
   avatar           : "profile_pic.jpg"
-  bio              : "PhD in Artificial intelligence in surface water resources"
+  bio              : "Master of Science in Electrical Engineering (DSSP)"
   location         : "Ulsan"
-  employer         : "UNIST"
+  employer         : "Environmental AI Research Group"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=DugZ6eEAAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=lMI5QRwAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Ather-Abbas"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -113,7 +113,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MLinHydro"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

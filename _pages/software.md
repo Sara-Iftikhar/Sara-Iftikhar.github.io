@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Softwares"
-permalink: /software/
+title: "Software"
+permalink: /softwares/
 author_profile: true
 redirect_from:
   - /resume

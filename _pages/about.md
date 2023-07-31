@@ -16,6 +16,6 @@ removal efficiency from industrial wastewater using supervised machine learning.
 
 News
 ----------
-* My first first author paper published in JEMA titled "“Prediction and interpretation 
+* My first first author paper published in JEMA titled "Prediction and interpretation 
 of antibiotic-resistance genes occurrence at recreational beaches
 using machine learning models".

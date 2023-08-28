@@ -2,7 +2,7 @@
 title: "Prediction and interpretation of antibiotic-resistance genes occurrence at recreational 
 beaches using machine learning models"
 collection: publications
-permalink: /publication/2020_surf_subsurf_joh
+permalink: /publication/2023_arg_ml_jema
 excerpt: ''
 date: 2023-02-15
 venue: 'Journal of Environmental Management'

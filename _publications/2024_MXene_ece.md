@@ -3,7 +3,7 @@ title: "Adsorption of Cr(VI) ions onto fluorine-free niobium carbide (MXene) and
 collection: publications
 permalink: /publication/2024_MXene_ece.md
 excerpt: ''
-date: 2027-02-17
+date: 2024-02-17
 venue: 'Journal of Environmental Chemical Engineering'
 paperurl: 'https://doi.org/10.1016/j.jece.2024.112238'
 citation: 'Rehan Ishtiaq, Nallain Zahra, Sara Iftikhar, Fazila Rubab, Khawar Sultan, Ather Abbas, Sze-Mun Lam, Zeeshan Haider Jaffari, Ki Young Park,

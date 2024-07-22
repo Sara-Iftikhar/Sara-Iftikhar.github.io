@@ -32,6 +32,21 @@ Experience
 * Internee Engineer at [Pakistan Aeronautical Complex, Kamra](https://www.pac.org.pk/) in August 2016
   * Understanding the basic working of electronic machines used in manufacturing and overhauling
     air-crafts.
+* Lab Technician at [Ulsan National Institute of Science & Technology, South Korea](https://www.unist.ac.kr) from June 2021 - October 2021
+  * Responsible to conduct several experiments to quantify water quality.
+  
+* Lab Technician at [Ulsan National Institute of Science & Technology, South Korea](https://www.unist.ac.kr) from June 2022 - October 2022
+  * Responsible to conduct several experiments to quantify water quality.
+  
+* Teacher at [Dot & Line, Pakistan](https://dotandlinelearning.com) from May 2020 - March 2023
+  * Introduction to all aviation and electronic equipment at Benazir International Airport, Islamabad.
+  
+* Remote Reseacher at Environmental AI, Pakistan from June 2023 - February 2024
+  * Research work in the field of application of AI in water quality and wastewater treatement
+
+* Reseach Assistant at [IDE, King Abdullah University of Science and Technology, Kingdom of Saudi Arabia](https://ide.kaust.edu.sa) from March 2024 - present
+  * Research in utilizing machine learning approaches to predict and interpret intricate bacterial characteristics, such as bacterial origin and antimicrobial resistance.
+
 
 Skills
 ======

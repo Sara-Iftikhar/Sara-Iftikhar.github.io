@@ -9,18 +9,37 @@ redirect_from:
 ---
 
 About me
--------------
-I develop data-driven models for tabular and time-series data. I am interested 
-in modelling water quality parameters (Antibiotic resistance genes) and pollutant 
-removal efficiency from industrial wastewater using supervised machine learning.
+--------
+
+I am an interdisciplinary researcher working at the intersection of microbial genomics,
+antimicrobial resistance (AMR), infectious-disease epidemiology, and machine learning.
+Since 2024, I have worked in Professor Danesh Moradigaravand's Laboratory of Infectious
+Disease Epidemiology at KAUST, where I link bacterial genomic variation to clinically
+and biologically important phenotypes using population-genomic, bioinformatic, and
+machine-learning approaches.
+
+My research interests include genomic epidemiology, population genetics, infectious
+diseases, AMR, genotype-phenotype prediction, explainable AI, and evidence-grounded
+generative AI for clinical decision support. My earlier research applied machine learning
+to environmental AMR and wastewater-treatment problems.
+
+Current research
+----------------
+
+* Predicting mortality, ICU admission, and length of stay from bacterial genomes and clinical metadata.
+* Mapping genome-environment fitness landscapes using chemical genomics, bacterial GWAS, and machine learning.
+* Genomic surveillance of clinical and environmental antimicrobial-resistant bacteria in Saudi Arabia.
+* Evaluating AI-assisted antibiotic prescribing through structured clinical vignettes.
+
+Selected projects
+-----------------
+
+* [Saudi Pathogen Atlas](https://saudipathogenatlas.kaust.edu.sa) — an interactive genomic-surveillance dashboard for antimicrobial-resistant bacterial isolates in Saudi Arabia.
+* [GenoPredict](https://genopredict.kaust.edu.sa) — a genome-based clinical-severity prediction platform using interpretable machine learning.
 
 News
-----------
-* My first co first-author paper, titled "Prediction and Interpretation of Antibiotic-Resistance 
-Genes Occurrence at Recreational Beaches Using Machine Learning Models," has been published in JEMA.
-* I have published another paper (co first-author), "Artificial Neural Networks for Insights into Adsorption Capacity 
-of Industrial Dyes Using Carbon-Based Materials," in the journal Separation and Purification Technology.
-* A further paper, "Adsorption of Cr(VI) Ions onto Fluorine-Free Niobium Carbide (MXene) and Machine 
-Learning Prediction with High Precision," has been published in the Journal of Environmental Chemical Engineering.
-* I have been appointed as a Research Assistant at KAUST in the Infectious Disease Epidemiology Lab 
-under the supervision of Danesh Moradigaravand.
+----
+
+* Two 2026 preprints report genomic prediction of clinical severity and high-dimensional genome-environment fitness landscapes in *Klebsiella pneumoniae*.
+* Our national genomic study of methicillin-resistant *Staphylococcus aureus* was published in *Frontiers in Microbiology* in 2025.
+* Research on probabilistic prediction of phosphate adsorption by biochar was published in *Chemosphere* in 2025.

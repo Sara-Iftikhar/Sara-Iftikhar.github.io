@@ -1,8 +1,8 @@
 ---
 title: "Adsorption of Cr(VI) ions onto fluorine-free niobium carbide (MXene) and machine learning prediction with high precision"
 collection: publications
-permalink: /publication/2024_MXene_ece.md
-excerpt: ''
+permalink: /publication/2024_MXene_ece
+excerpt: 'Fluorine-free niobium carbide MXene removes hexavalent chromium from wastewater, with CatBoost reproducing the measured adsorption behavior.'
 date: 2024-02-17
 venue: 'Journal of Environmental Chemical Engineering'
 paperurl: 'https://doi.org/10.1016/j.jece.2024.112238'
@@ -18,3 +18,5 @@ https://doi.org/10.1016/j.jece.2024.112238.
 ---
 
 [Download paper here](https://doi.org/10.1016/j.jece.2024.112238)
+
+Fluorine-free niobium carbide MXene was synthesized hydrothermally and evaluated for removing hexavalent chromium from wastewater. Experimental and mechanistic analysis was combined with high-precision CatBoost modeling.

@@ -12,30 +12,56 @@ redirect_from:
 
 
 
-AutoTab (Owner)
----------------
+Research platforms
+==================
 
-Framework for machine learning pipeline optimization 
-Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/Sara-Iftikhar/AutoTab)
-Documentation:  [![Documentation Status](https://readthedocs.org/projects/autotab/badge/?version=latest)](https://autotab.readthedocs.io/en/latest/?badge=latest)
+[Saudi Pathogen Atlas](https://saudipathogenatlas.kaust.edu.sa)
+----------------------------------------------------------------
+
+Interactive genomic-surveillance dashboard for clinical and environmental antimicrobial-resistant
+bacterial isolates in Saudi Arabia. It integrates lineage, AMR-gene, geographic, temporal, and
+isolate-level exploration.
+
+[GenoPredict](https://genopredict.kaust.edu.sa)
+------------------------------------------------
+
+Genome-based clinical-severity prediction platform that uses machine learning and interpretable
+analysis to translate bacterial genomic features into clinically relevant outcome predictions.
+
+Open-source software
+====================
+
+[AutoTab](https://github.com/Sara-Iftikhar/AutoTab) — Owner
+-----------------------------------------------------------
+
+Framework for machine-learning pipeline optimization for tabular and time-series data.
+[Documentation](https://autotab.readthedocs.io/)
 
 
-easy_mpl (Owner)
-----------------
+[easy_mpl](https://github.com/Sara-Iftikhar/easy_mpl) — Owner
+-------------------------------------------------------------
 
-A one stop shop for matplotlib based plotting. 
-Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/Sara-Iftikhar/easy_mpl)
-Documentation: [![Documentation Status](https://readthedocs.org/projects/easy-mpl/badge/?version=latest)](https://easy-mpl.readthedocs.io/en/latest/?badge=latest)
+Utilities for publication-ready scientific visualization with Matplotlib.
+[Documentation](https://easy-mpl.readthedocs.io/)
 
 
-AI4Water (Contributor)
-----------------------
+[AI4Water](https://github.com/AtrCheema/AI4Water) — Contributor
+---------------------------------------------------------------
 
-A python-based fromework for machine learning based modeling in python. 
-Code: [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/AtrCheema/AI4Water)
-Documentation:  [![Documentation Status](https://readthedocs.org/projects/ai4water/badge/?version=latest)](https://ai4water.readthedocs.io/en/latest/?badge=latest)
+A Python framework for data-driven modeling of tabular and time-series environmental data.
+[Documentation](https://ai4water.readthedocs.io/)
+
+[SeqMetrics](https://github.com/AtrCheema/SeqMetrics) — Contributor
+------------------------------------------------------------------
+
+Unified Python library for regression and classification performance metrics.
+
+[AquaFetch](https://github.com/hyex-research/AquaFetch) — Contributor
+---------------------------------------------------------------------
+
+Python package for automated acquisition, parsing, and harmonization of water-resource datasets.
 
 *********************************
 
 
-In case you use any of my software and face issues or have feedback, feel free to write me or open an issue on Github.
+If you use any of this software and encounter an issue or have feedback, feel free to email me or open an issue on GitHub.

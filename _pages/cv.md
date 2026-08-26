@@ -9,63 +9,85 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](Resume.pdf)
+[Download CV (PDF)](Resume.pdf)
+
+Research profile
+================
+
+Interdisciplinary researcher with experience in microbial genomics, antimicrobial resistance,
+infectious-disease epidemiology, chemical genomics, microbiological laboratory work, and machine
+learning. My research at KAUST focuses on linking bacterial genomic variation to clinically and
+biologically important phenotypes using population-genomic, bioinformatic, and interpretable
+machine-learning approaches.
 
 Education
 =========
 
-* 2017-2020:    M. S. Electrical Engineering, National University of Science and Technology, Pakistan
-* 2013-2017:    B. S. Electrical Engineering, Air University, Pakistan
+* **M.S. Electrical Engineering (Digital Signal and Systems Processing)**, National University of Sciences and Technology, Pakistan, 2017–2020
+  * Thesis: *Formal Verification of E-Voting Protocols Using Probabilistic Model Checking*
+* **B.E. Electrical Engineering (Electronics)**, Air University, Pakistan, 2013–2017
+  * Thesis: *Blind Spot Detection System for Vehicles*
 
+Research experience
+===================
 
-Thesis titles:
+**Research Assistant, King Abdullah University of Science and Technology (KAUST)**
+March 2024–present
 
-* Master's thesis:   *Formal verification of electronic voting protocols using probablistic model checking*
-* Bachelor's thesis: *Blind spot detection system for vehicles*
+* Analyze bacterial whole-genome sequencing data and AMR profiles using bioinformatics and machine-learning workflows.
+* Develop predictive and interpretable models relating genomic variation to bacterial phenotypes and clinical outcomes.
+* Contribute to genomic epidemiology and population-level analyses of pathogens including *Klebsiella pneumoniae* and *Staphylococcus aureus*.
+* Conduct antimicrobial susceptibility testing and genomic DNA extraction.
+* Integrate genomic, clinical, phenotypic, and environmental data for infectious-disease research.
+* Support laboratory safety, risk assessment, procurement, and research continuity.
 
-Experience
-==========
+**Remote Researcher, Environmental AI, Pakistan**
+June 2023–February 2024
 
-* Internee Engineer at [Civil Aviation Authority](https://caapakistan.com.pk/) from June - July 2016
-  * Introduction to all aviation and electronic equipment at Benazir International Airport, Islamabad.
-  
-* Internee Engineer at [Pakistan Aeronautical Complex, Kamra](https://www.pac.org.pk/) in August 2016
-  * Understanding the basic working of electronic machines used in manufacturing and overhauling
-    air-crafts.
-* Lab Technician at [Ulsan National Institute of Science & Technology, South Korea](https://www.unist.ac.kr) from June 2021 - October 2021
-  * Responsible to conduct several experiments to quantify water quality.
-  
-* Lab Technician at [Ulsan National Institute of Science & Technology, South Korea](https://www.unist.ac.kr) from June 2022 - October 2022
-  * Responsible to conduct several experiments to quantify water quality.
-  
-* Teacher at [Dot & Line, Pakistan](https://dotandlinelearning.com) from May 2020 - March 2023
-  * Introduction to all aviation and electronic equipment at Benazir International Airport, Islamabad.
-  
-* Remote Reseacher at Environmental AI, Pakistan from June 2023 - February 2024
-  * Research work in the field of application of AI in water quality and wastewater treatement
+* Applied machine learning, explainable AI, data analysis, and scientific software development to environmental and biomedical research problems.
 
-* Reseach Assistant at [IDE, King Abdullah University of Science and Technology, Kingdom of Saudi Arabia](https://ide.kaust.edu.sa) from March 2024 - present
-  * Research in utilizing machine learning approaches to predict and interpret intricate bacterial characteristics, such as bacterial origin and antimicrobial resistance.
+**Lab Technician, Ulsan National Institute of Science and Technology, South Korea**
+June–October 2021 and June–October 2022
 
+* Conducted laboratory experiments to quantify water-quality parameters.
 
-Skills
-======
-* Python
-  * Object-oriented programming 
-  * Visualization (matplotlib, seaborn, plotly)
-  * Array manipulation (numpy, pandas)
-  * Data handling (.xlxs, .json, .csv, .h5, .nc)
-* Machine Learning
-  * TensorFlow (building and training neural networks for Tabular and Time series data)
-  * Scikit-learn (using differnt Ensemble methods, Decision trees and Neural network models for classification and regression problems)
-  * LightGBM, XGBoost, CatBoost
-  * Experiment Tracking (weights&biases)
-* Version Control
-  * git
+**Teacher, Dot & Line, Pakistan**
+May 2020–March 2023
 
+Selected projects
+=================
+
+* [Saudi Pathogen Atlas](https://saudipathogenatlas.kaust.edu.sa) — genomic surveillance of clinical and environmental antimicrobial-resistant bacterial isolates in Saudi Arabia.
+* [GenoPredict](https://genopredict.kaust.edu.sa) — interpretable, genome-based prediction of clinically relevant outcomes.
+* **AI-Assisted Antibiotic Prescription** — comparison of physician decisions and LLM outputs using structured clinical vignettes.
+
+Technical and laboratory skills
+===============================
+
+* **Computational:** Python, NumPy, pandas, xarray, Matplotlib, TensorFlow, scikit-learn, XGBoost, LightGBM, CatBoost, Git, and Weights & Biases.
+* **Modeling:** neural networks, time-series modeling, genotype-phenotype prediction, model deployment, and large multimodal datasets.
+* **Explainable AI:** SHAP, partial dependence, integrated gradients, and attention-based methods.
+* **Bioscience:** microbial genomics, bioinformatics, AMR profiling, genomic pattern interpretation, antimicrobial susceptibility testing, and genomic DNA extraction.
+* **Laboratory operations:** safety, risk assessment, procurement, and research continuity.
+
+Open-source software
+====================
+
+* **AutoTab** — owner; machine-learning pipeline optimization for tabular and time-series data.
+* **easy_mpl** — owner; publication-ready scientific visualization utilities.
+* **SeqMetrics** — contributor; unified regression and classification metrics for Python.
+* **AquaFetch** — contributor; acquisition and harmonization of water-resource datasets.
+* **AI4Water** — contributor; data-driven environmental modeling framework.
+
+Awards and languages
+====================
+
+* Final Year Project Research Grant, National ICT R&D, Pakistan, 2016.
+* English: IELTS 7.0, 2026.
 
 Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+============
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>

@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Sara Iftikhar"
 title_separator          : "-"
 name                     : &name "personal website"
-description              : &description "PhD student in Environmental Engineering"
+description              : &description "Researcher in microbial genomics, infectious disease epidemiology, and machine learning"
 url                      : https://sara-iftikhar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sara-iftikhar.github.io"
@@ -86,9 +86,9 @@ analytics:
 author:
   name             : "Sara Iftikhar"
   avatar           : "profile_pic.jpg"
-  bio              : "Master of Science in Electrical Engineering"
-  location         : "KSA"
-  employer         : "KAUST"
+  bio              : "Researcher in microbial genomics, antimicrobial resistance, and machine learning"
+  location         : "Thuwal, Saudi Arabia"
+  employer         : "KAUST, KSA"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=lMI5QRwAAAAJ"
   email            : "sara.rwpk@gmail.com"
@@ -259,7 +259,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Riyadh # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
